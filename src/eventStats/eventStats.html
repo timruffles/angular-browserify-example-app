@@ -1,0 +1,9 @@
+<div ng-if="!ctrl.event.$resolved">
+  <p>Loading...</p>
+</div>
+
+<div ng-if="ctrl.event.$resolved">
+  <h1>{{ :: ctrl.event.title }}</h1>
+
+  <demo-directive></demo-directive>
+</div>

@@ -1,0 +1,4 @@
+{
+  "main.js": ["./src/main.js"],
+  "stats.js": ["./src/eventStats/eventStats.js"]
+}

@@ -42,7 +42,7 @@ function HomeCtrl(
 }
 ```
 
-See [src/main.js] for how the app is booted.
+See [src/main.js](src/main.js) for how the app is booted.
 
 ### Lazy-loading
 

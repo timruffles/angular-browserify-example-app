@@ -48,6 +48,10 @@ See [src/main.js](src/main.js) for how the app is booted.
 
 This is achieved with the standard browserify stack, and our `ng.loadModule()` function again.
 
+### Dependency injection
+
+For testing use thlorenz/proxyquireify. For DI in application code simply use generally applicable DI techniques: pass arguments to methods or constructors! You can even get fancy and use prototypes etc - whatever you normally use in any dynamic language will work.
+
 ## Viewing the demo
 
 Download or clone and run:

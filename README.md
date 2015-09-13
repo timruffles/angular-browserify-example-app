@@ -1,6 +1,6 @@
 # angular-browserify-example
 
-This is a demonstration of using Angular with browserify.
+This is a demonstration of using Angular 1.x with browserify.
 
 It is a very opinionated use of AngularJS! I love it because:
 
